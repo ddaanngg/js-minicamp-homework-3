@@ -5,10 +5,15 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* Objects
+		Objects are a collection of variables and functions.
 	* Properties
+		Properties are variables or functions that are tied to a particular object.
 	* Methods
+		Object-based functions (sub programs).
 	* for in loop
+		Allows to perform a function with each key/property inside of an object.
 	* dot notation vs bracket notation
+		Dot notation allows to call out the property or function from within an object. Bracket notation allows properties within the object to be dynamically selected.
 
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
